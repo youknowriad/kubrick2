@@ -15,7 +15,7 @@
 		"blockGap": "2px"
 	},
 	"color": {
-		"backgorund": "#d5d6d7"
+		"background": "#d5d6d7"
 	},
     "elements": {
       "h1": {
