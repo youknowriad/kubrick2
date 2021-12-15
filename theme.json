@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "settings": {
+    "appearanceTools": true,
+    "spacing": {
+      "blockGap": true
+    }
+  },
+  "styles": {
+    "typography": {
+      "fontFamily": "'Lucida Grande', Verdana, Arial, Sans-Serif",
+      "fontSize": "13px"
+    },
+    "spacing": {
+		"blockGap": "2px"
+	},
+	"color": {
+		"backgorund": "#d5d6d7"
+	},
+    "elements": {
+      "h1": {
+        "typography": {
+          "fontFamily": "'Trebuchet MS', 'Lucida Grande', Verdana, Arial, Sans-Serif"
+        }
+      },
+      "h2": {
+        "typography": {
+          "fontFamily": "'Trebuchet MS', 'Lucida Grande', Verdana, Arial, Sans-Serif"
+        }
+      },
+      "h3": {
+        "typography": {
+          "fontFamily": "'Trebuchet MS', 'Lucida Grande', Verdana, Arial, Sans-Serif"
+        }
+      },
+      "h4": {
+        "typography": {
+          "fontFamily": "'Trebuchet MS', 'Lucida Grande', Verdana, Arial, Sans-Serif"
+        }
+      },
+      "h5": {
+        "typography": {
+          "fontFamily": "'Trebuchet MS', 'Lucida Grande', Verdana, Arial, Sans-Serif"
+        }
+      },
+      "h6": {
+        "typography": {
+          "fontFamily": "'Trebuchet MS', 'Lucida Grande', Verdana, Arial, Sans-Serif"
+        }
+      },
+	  "link": {
+		  "color": {
+			  "text": "0066cc"
+		  }
+	  }
+    }
+  }
+}
